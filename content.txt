@@ -1,0 +1,270 @@
+
+# Timer
+  
+247 judge timer 3p
+250-259 1p HCN active
+260-269 2p HCN active
+270-279 1p HCN damage
+280-289 2p HCN damage
+348 exscore A
+349 exscore AA
+350 exscore AAA
+351 exscore best
+352 exscore target
+446-448 combo timer 1-3p
+900-909 PM chara timers
+### extended lanes
+1010-1099 1p bomb
+1110-1199 2p bomb
+1210-1299 1p hold
+1310-1399 2p hold
+1410-1499 1p key on
+1510-1599 2p key on
+1610-1699 1p key off
+1710-1799 2p key off
+1810-1899 1p HCN active
+1910-1999 2p HCN active
+2010-2099 1p HCN damage
+2110-2199 2p HCN damage
+  
+# Slider
+  
+  
+# Bargraph
+  
+101 music progress
+102 load progress
+103 level
+105-109 level diff
+110 scorerate
+111 scorerate final
+112 best scorerate now
+113 best scorerate
+114 target scorerate now
+115 target scorerate
+  
+140-144 pg-pr rate
+145 maxcombo rate
+146 score rate
+147 exscore rate
+  
+# Text
+  
+1000 directory
+1001 table name
+1002 table level
+1003 table full
+1010 version
+1020 ir name
+  
+# Number
+  
+202 ir noplay
+203 ir noplay%
+204 ir assist
+205 ir assist%
+206 ir l-assist
+207 ir l-assist%
+208 ir exhard
+209 ir exhard%
+222 ir perfect
+223 ir perfect%
+224 ir max
+225 ir max%
+226 ir total clear
+227 ir total clear%
+228 ir total fc
+229 ir total fc%
+230 ir noplay% decimal
+231 ir assist% decimal
+232 ir l-assist% decimal
+233 ir exhard% decimal
+234 ir failed% decimal
+235 ir easy% decimal
+236 ir normal% decimal
+237 ir hard% decimal
+238 ir fc% decimal
+239 ir perfect% decimal
+240 ir max% decimal
+241 ir total clear% decimal
+242 ir total fc% decimal
+  
+300 folder song count
+  
+310 hs
+311 hs decimal
+312 duration
+313 duration green
+314 lift1
+315 hidden1
+  
+320 folder noplay
+321 folder failed
+322 folder assist
+323 folder l-assist
+324 folder easy
+325 folder groove
+326 folder hard
+327 folder exhard
+328 folder fc
+329 folder perfect
+330 folder max
+  
+333 total notes
+350 total normal notes
+351 total ln notes
+352 total sc notes
+353 total bss notes
+354 total mine notes
+  
+360 density peak
+361 density peak decimal
+362 density end
+363 density end decimal
+364 density avg
+365 density avg decimal
+  
+368 song gauge total
+  
+370 clear
+371 target clear
+372 average duration
+373 average duration decimal
+374 average timing
+375 average timing decimal
+376 stddev timing
+377 stddev timing decimal
+  
+380-389 ir rank 1-10 exscore
+390-399 ir rank 1-10 clear
+  
+407 groovegauge decimal
+410-411 pg f/s
+412-413 gr f/s
+414-415 gd f/s
+416-417 bd f/s
+418-419 pr f/s
+420 kp
+421-422 kp f/s
+423-424 total f/s
+425 cb
+426 pr+kp
+427 bd+pr+kp
+  
+1163 song length minute
+1164 song length second
+  
+1312 duration sud on
+1313 duration sud on green
+1314 duration sud off
+1315 duration sud off green
+1316-1319 mainbpm duration
+1320-1323 minbpm duration
+1323-1327 maxbpm duration
+  
+# Option
+  
+-1 random
+  
+### song clear flags
+124 assist easy
+125 exhard
+1128 r-ran
+1129 spiral
+1130 ex-ran
+1131 exs-ran
+  
+### song select
+1002-1007 course type
+1008 table song
+1010-1014 course gauge mode
+1015-1017 course ln mode
+1030 random select bar
+1031 random course bar
+  
+1100 assist
+1101 l-assist
+1102 exhard
+1103 perfect
+1104 max
+  
+1160 24key
+1161 24key dp
+  
+1177 bms has stop
+  
+198 replay data saved
+1196 no replay2
+1197 replay2 exists
+1198 replay2 saved
+1199 no replay3
+1200 replay3 exists
+1201 replay3 saved
+1202 no replay4
+1203 replay4 exists
+1204 replay4 saved
+1205-1208 replay1-4 selected
+  
+### play
+271* sud on
+272 lift on
+273 hid on
+361-366 3p judge
+  
+1046 gauge ex
+1047 gauge ex 2p
+1080 practice mode
+  
+1240 1p border or more
+1242-1243 1p f/s
+1262-1263 2p f/s
+1362-1363 3p f/s
+2241-2246 judge triggered
+  
+### result
+336 target update
+1330 score draw
+1331 maxcombo draw
+1332 misscount draw
+1335 rank draw
+1336 target draw
+  
+### ir
+624 not compare rival
+625 compare rival
+  
+# Button
+  
+78 GAS
+79 rival
+89* favorite song
+90* favorite chart
+  
+301 assist exjudge
+302 assist constant
+303 assist judgearea
+304 assist legacy
+305 assist marknote
+306 assist bpmguide
+307 assist nomine
+308 ln mode
+  
+315 start practice
+316-318 start replay 2-4
+321-324 auto save replay 1-4
+330 sud
+331 lift
+332 hid
+340 judge algorithm
+341 BOTTOMSIFTABLEFGAUGE
+342 hs auto adjust
+350 extra note
+351 mine mode
+352 scroll mode
+353 ln mode
+360 7to9 pattern
+361 7to9 type
+  
+386 skinselect 24key
+387 skinselect 24key dp
+388 skinselect 24key battle
